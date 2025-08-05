@@ -93,6 +93,7 @@ public class Main {
     /**
      * Exits the application by setting the `isRunning` flag to false.
      */
+    /** this is a test
     public static void onExit() {
         isRunning = false;
     }
